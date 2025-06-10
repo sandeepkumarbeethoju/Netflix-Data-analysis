@@ -39,17 +39,17 @@ CREATE TABLE netflix (
     description  VARCHAR(550)
 );
 
- ## 🧾 Overview 📌Findings & Conclusion
-- **Content Type: **~69% Movies and ~31% TV Shows.
+📌 Findings & Conclusion
+- Content Type: ~69% Movies and ~31% TV Shows.
 
-**Popular Ratings:** 'TV-MA' is the most frequent rating.
+Popular Ratings: 'TV-MA' is the most frequent rating.
 
-**Top Countries:** USA, India, and UK produce the most content.
+Top Countries: USA, India, and UK produce the most content.
 
-**Genre Spread: **Dramas and Documentaries dominate the genres.
+Genre Spread: **Dramas and Documentaries dominate the genres.
 
-**Content Flagging:** 23% labeled as ‘Bad’ due to violent/kill-related keywords.
+Content Flagging: 23% labeled as ‘Bad’ due to violent/kill-related keywords.
 
-**India Trend:** Over 60% of Indian content was added in the last 5 years.
+India Trend: Over 60% of Indian content was added in the last 5 years.
 
-**Celebrity Insight:** Salman Khan featured in multiple titles over the last decade.
+Celebrity Insight: Salman Khan featured in multiple titles over the last decade.
