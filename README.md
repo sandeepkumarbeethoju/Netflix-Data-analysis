@@ -39,7 +39,7 @@ CREATE TABLE netflix (
     description  VARCHAR(550)
 );
 
-## 📌** Findings & Conclusion**
+ ## 🧾 Overview 📌Findings & Conclusion
 - **Content Type: **~69% Movies and ~31% TV Shows.
 
 **Popular Ratings:** 'TV-MA' is the most frequent rating.
